@@ -1,2 +1,2 @@
 # SpotifyClone
-Um clone simples (com alguns bugs) do spotify
+A simple clone (with some bugs) of spotify.
